@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hairelementsapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        android:name="com.example.hairelementsapp.App">
+        <activity
+            android:name=".DispatchActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="BuyCouponAreaDeal"></activity>
+        <activity android:name="BuyFlashSale"></activity>
+        <activity android:name="CouponAreaDeal"></activity>
+        <activity android:name="CouponConfirmationScreen"></activity>
+        <activity android:name="FlashConfirmationScreen"></activity>
+        <activity android:name="FlashSale"></activity>
+        <activity android:name="HomeFeedActivity"></activity>
+        <activity android:name="MerchantFeed"></activity>
+        <activity android:name="MerchantLoginScreen"></activity>
+        <activity android:name="MerchantPayment"></activity>
+        <activity android:name="MerchantRegistration"></activity>
+        <activity android:name="StoreSelection"></activity>
+        <activity android:name="MerchantStripeSetup"></activity>
+        <activity android:name="UserLoginScreen"></activity>
+        <activity android:name="UserRegistration"></activity>
+        <activity android:name="StoreItem"></activity>
+        <activity android:name="BuyStoreItem"></activity>
+        <activity android:name=".TitleScreen"></activity>
+    </application>
+
+</manifest>

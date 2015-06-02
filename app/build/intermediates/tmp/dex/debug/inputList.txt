@@ -1,0 +1,4 @@
+/Users/AJ/AndroidstudioProjects/Hair Elements App/app/build/intermediates/classes/debug
+/Users/AJ/AndroidstudioProjects/Hair Elements App/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-6910bf7398d721fec98e85913094c44933ec9009.jar
+/Users/AJ/AndroidstudioProjects/Hair Elements App/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-e9e3cc035f8c6a41b79e5263b5ae508183a77d33.jar
+/Users/AJ/AndroidstudioProjects/Hair Elements App/app/build/intermediates/pre-dexed/debug/Parse-1.8.0-f6f879582dcc6d0bf8ba6d3e4dcc44cb5668e062.jar

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/AJ/AndroidstudioProjects/Hair%20Elements%20App/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/AJ/AndroidstudioProjects/Hair%20Elements%20App/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Hair Elements</string>
+    <string name="error_blank_password">Blank Password</string>
+    <string name="error_blank_username">Blank Username</string>
+    <string name="error_end">Correct Errors</string>
+    <string name="error_intro">Blank Username</string>
+    <string name="error_join">Blank Password</string>
+    <string name="error_mismatched_passwords">Mismatched Passwords</string>
+    <string name="login">Login</string>
+    <string name="progress_login">Logging In</string>
+    <string name="progress_signup">Signing Up</string>
+    <string name="signup">Sign Up</string>
+    <!-- From: file:/Users/AJ/AndroidstudioProjects/Hair%20Elements%20App/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

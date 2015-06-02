@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/AJ/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/AJ/AndroidstudioProjects/Hair Elements App/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-6910bf7398d721fec98e85913094c44933ec9009.jar" />
+    </item>
+    <item
+        jar="/Users/AJ/Documents/Android Development/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/AJ/AndroidstudioProjects/Hair Elements App/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-e9e3cc035f8c6a41b79e5263b5ae508183a77d33.jar" />
+    </item>
+    <item
+        jar="/Users/AJ/AndroidstudioProjects/Hair Elements App/app/libs/Parse-1.8.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61cf79e2775b882ac0ea32d60ea2dbbf6f245cea">
+        <dex dex="/Users/AJ/AndroidstudioProjects/Hair Elements App/app/build/intermediates/pre-dexed/debug/Parse-1.8.0-f6f879582dcc6d0bf8ba6d3e4dcc44cb5668e062.jar" />
+    </item>
+
+</items>

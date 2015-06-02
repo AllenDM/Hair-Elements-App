@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Hair Elements</string>
+    <string name="progress_login">Logging In</string>
+    <string name="error_intro">Blank Username</string>
+    <string name="error_blank_username">Blank Username</string>
+    <string name="error_join">Blank Password</string>
+    <string name="error_blank_password">Blank Password</string>
+    <string name="error_end">Correct Errors</string>
+    <string name="error_mismatched_passwords">Mismatched Passwords</string>
+    <string name="progress_signup">Signing Up</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+
+</resources>

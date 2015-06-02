@@ -1,0 +1,53 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.hairelementsapp.UserLoginScreen" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Activity One" />
+
+     
+    <EditText 
+        android:id="@+id/username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:layout_below="@+id/textView1"
+        
+        />
+    
+    
+     <EditText 
+        android:id="@+id/passwordText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:layout_below="@+id/username"
+        
+        />
+    
+    
+        <Button 
+          android:id="@+id/buttonLogin"  
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_below="@+id/passwordText"
+          android:layout_marginTop="60dp"
+          android:layout_toRightOf="@+id/textView1"
+          android:text="Login"
+            
+            />
+        
+        
+        
+      
+    
+    
+    
+    
+</RelativeLayout>

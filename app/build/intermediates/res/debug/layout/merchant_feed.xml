@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/buttonEditStoreItem"
+        android:layout_width="297dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="Add store item" />
+
+    <Button
+        android:id="@+id/buttonEditFlashSale"
+        android:layout_width="297dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/buttonEditStoreItem"
+        android:layout_alignLeft="@+id/buttonEditCouponOffer"
+        android:text="Edit Flash Sale" />
+
+    <Button
+        android:id="@+id/buttonEditCouponOffer"
+        android:layout_width="295dp"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/buttonEditStoreItem"
+        android:layout_below="@+id/buttonEditStoreItem"
+        android:text="Edit Coupon Offer" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/buttonEditFlashSale"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="49dp"
+        android:text="Merchant Dashboard"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</RelativeLayout><!-- From: file:/Users/AJ/AndroidstudioProjects/Hair%20Elements%20App/app/src/main/res/layout/merchant_feed.xml -->
